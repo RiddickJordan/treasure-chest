@@ -1,0 +1,15 @@
+{
+  "name": "conductive_loot_reveal",
+  "version": "1.0.0",
+  "description": "Loot reveal animation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Jordan Riddick",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
